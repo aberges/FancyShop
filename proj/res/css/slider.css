@@ -1,0 +1,16 @@
+img {
+      width: 20%;
+      margin: auto;
+  }
+  
+  
+body {
+    background-color: grey;
+    background-image: url("../../images/dummy.jpeg") ;
+    background-size:50% auto;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
